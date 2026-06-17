@@ -119,5 +119,3 @@ git push -u origin main
 Then go to → **https://share.streamlit.io** → New App → Deploy.
 
 ---
-
-Built by **Viviyan** · CSE @ St. Joseph's College of Engineering, Chennai
